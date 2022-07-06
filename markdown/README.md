@@ -167,5 +167,3 @@
 
 구글 홈페이지: [https://google.com](https://google.com/)
 네이버 홈페이지: [https://naver.com](https://naver.com/)
-
-이것은 연습입니다
